@@ -1,0 +1,6 @@
+
+alias flm='fleetctl list-machines'
+alias flu='fleetctl list-units'
+alias fluf='fleetctl list-unit-files'
+alias fjf='fleetctl journal -f'
+
